@@ -1,0 +1,1 @@
+This project predicts the Estimated Time of Arrival (ETA) for courier pickup requests using Machine Learning. The goal is to improve pickup time estimation by learning from historical courier, location, and time-related features.
